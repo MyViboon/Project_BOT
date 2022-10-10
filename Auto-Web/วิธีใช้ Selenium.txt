@@ -1,0 +1,13 @@
+1. ติดตั้ง Selenoium
+
+- pip install selenium
+
+2. ลงไดร์เวอร์ หัวข้อ 1.5  ตาม Brorser ที่เราใช้งาน ตรวจสอบเวอร์ชั่นก่อน
+
+3. โหลด tesseract สำหรับ OCR แปลงรูปภาพให้กลายเป็นข้อความ
+
+- https://digi.bib.uni-mannheim.de/tesseract/
+
+4. ลง packkage สำหรับ Python
+
+-pip install pytesseract

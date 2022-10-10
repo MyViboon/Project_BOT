@@ -1,0 +1,6 @@
+
+ใช้ python คลิก กดปุ่ม
+- pip install pyautogui
+
+python อ่านไฟล์ Excel
+- pip install openpyxl
